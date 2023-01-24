@@ -2,7 +2,7 @@
 
 Repositório com atividade de generics desenvolvida para a capacitação Back-End C# da ADA
 
-###Enunciado
+### Enunciado
 
 Você foi contratado pela escola de idiomas “Let’s Speak” para a construção de uma aplicação de dicionário para os alunos.
 A aplicação deve ser construída conforme os requisitos a seguir.
