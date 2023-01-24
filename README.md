@@ -1,4 +1,4 @@
-# Atividade Generics ADA - José Augusto Jimenes
+# Atividade Generics - ADA
 
 Repositório com atividade de generics desenvolvida para a capacitação Back-End C# da ADA
 
